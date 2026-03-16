@@ -8,10 +8,7 @@ Using PyTorch technology, we simulate multiple frequency channels as well as the
 
 This project requires the following Python packages:
 
-- torch
-- torch-summary
-- torchview
-- torchviz
+- torch  
+- numpy  
+- matplotlib  
 - seaborn
-- numpy
-- matplotlib
