@@ -12,5 +12,4 @@ This project requires the following Python packages:
 - numpy
 - pandas
 - matplotlib
-- seaborn
 - ipython
